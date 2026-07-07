@@ -1,6 +1,7 @@
 
 ## 📄 OpenClaude Skill Converter
  >A PowerShell script that converts Claude Code skills into compatible Python tool files for Open WebUI.
+
 ---
 
 ## 🎯 Why Use This Tool?
@@ -28,6 +29,13 @@ git clone https://github.com/brettyandell/OpenClaude-Skills-Converter.git
 cd OpenClaude-Skills-Converter
 ```
 ## 🚀 Usage
+
+## Graphic User Interface
+
+- Open OpenClaudeSkillConverter GUI.ps1.
+<img width="1136" height="1050" alt="image" src="https://github.com/user-attachments/assets/30e48d14-9570-4f98-b99a-cc044c954524" />
+
+## Command Line
 ### Convert a single skill
 
 ```powershell
